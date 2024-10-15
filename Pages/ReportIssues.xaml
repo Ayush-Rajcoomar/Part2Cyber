@@ -1,0 +1,160 @@
+﻿<Page
+    x:Class="WPFModernVerticalMenu.Pages.ReportIssues"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:WPFModernVerticalMenu.Pages"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="ReportIssues"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+    <Grid>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="/Pages/AbstractFlow.jpg" />
+        </Grid.Background>
+        <!--  Main StackPanel to hold all elements  -->
+
+        <StackPanel
+            Width="500"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center">
+            <TextBlock
+                Margin="0,50,0,20"
+                FontSize="36"
+                FontWeight="Bold"
+                Foreground="#D4D7FF"
+                Text="Issues Report"
+                TextAlignment="Center" />
+
+            <!--  Location Input TextBox  -->
+            <TextBox
+                x:Name="LocationInput"
+                Margin="0,0,0,10"
+                Padding="10"
+                Background="#312F45"
+                BorderBrush="#6C63FF"
+                BorderThickness="2"
+                FontSize="16"
+                Foreground="White"
+                Text="Enter location of the issue" />
+
+            <!--  Category Selection ComboBox  -->
+            <ComboBox
+                x:Name="CategorySelection"
+                Margin="0,0,0,10"
+                Padding="10"
+                Background="#312F45"
+                BorderBrush="#6C63FF"
+                BorderThickness="2"
+                FontSize="16"
+                Foreground="Black">
+                <ComboBoxItem Content="Sanitation" />
+                <ComboBoxItem Content="Roads" />
+                <ComboBoxItem Content="Utilities" />
+                <ComboBoxItem Content="Other" />
+            </ComboBox>
+
+            <!--  Description Box RichTextBox  -->
+            <RichTextBox
+                x:Name="DescriptionBox"
+                Height="100"
+                Margin="0,0,0,10"
+                Padding="10"
+                Background="#312F45"
+                BorderBrush="#6C63FF"
+                BorderThickness="2"
+                Foreground="White">
+                <FlowDocument>
+                    <Paragraph Foreground="White">Describe the issue in detail...</Paragraph>
+                </FlowDocument>
+            </RichTextBox>
+
+            <!--  Media Attachment Button  -->
+            <Button
+                Margin="0,0,0,10"
+                Padding="10"
+                Background="#6C63FF"
+                BorderBrush="#312F45"
+                BorderThickness="2"
+                Click="AttachMedia_Click"
+                Content="Attach Media"
+                FontSize="16"
+                Foreground="White">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Control.Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Border
+                                        Background="{TemplateBinding Background}"
+                                        BorderBrush="{TemplateBinding BorderBrush}"
+                                        BorderThickness="2"
+                                        CornerRadius="8">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+            <!--  Submit Button  -->
+            <Button
+                Margin="0,0,0,10"
+                Padding="10"
+                Background="#3C3F58"
+                BorderBrush="#878AB2"
+                BorderThickness="2"
+                Click="Submit_Click"
+                Content="Submit"
+                FontSize="16"
+                Foreground="White" />
+
+            <!--  Engagement Feature: Progress Bar  -->
+            <ProgressBar
+                x:Name="ReportProgressBar"
+                Height="20"
+                Margin="0,0,0,10"
+                Background="#312F45"
+                BorderBrush="#878AB2"
+                BorderThickness="1"
+                Foreground="LightSeaGreen"
+                Maximum="100"
+                Minimum="0"
+                Value="0" />
+
+            <!--  Navigation Buttons  -->
+            <Button
+                Padding="10"
+                Background="#6C63FF"
+                BorderBrush="#312F45"
+                BorderThickness="2"
+                Click="NavigateBack_Click"
+                Content="Back to Home Page"
+                FontSize="16"
+                Foreground="White">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Control.Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Border
+                                        Background="{TemplateBinding Background}"
+                                        BorderBrush="{TemplateBinding BorderBrush}"
+                                        BorderThickness="2"
+                                        CornerRadius="8">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </StackPanel>
+
+    </Grid>
+</Page>

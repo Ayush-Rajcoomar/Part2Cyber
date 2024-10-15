@@ -15,9 +15,7 @@ using System.Windows.Shapes;
 
 namespace WPFModernVerticalMenu.Pages
 {
-    /// <summary>
-    /// Lógica de interacción para Home.xaml
-    /// </summary>
+   
     public partial class Home : Page
     {
         public Home()

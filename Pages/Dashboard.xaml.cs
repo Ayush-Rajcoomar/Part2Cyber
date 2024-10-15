@@ -15,14 +15,21 @@ using System.Windows.Shapes;
 
 namespace WPFModernVerticalMenu.Pages
 {
-    /// <summary>
-    /// Lógica de interacción para Dashboard.xaml
-    /// </summary>
+    
     public partial class Dashboard : Page
     {
         public Dashboard()
         {
             InitializeComponent();
+        }
+
+   
+
+        private void btnReport_Click(object sender, RoutedEventArgs e)
+        {
+            this.NavigationService.Navigate(new ReportIssues());
+
+           
         }
     }
 }

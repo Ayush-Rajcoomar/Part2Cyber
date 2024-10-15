@@ -16,9 +16,7 @@ using System.Windows.Shapes;
 
 namespace WPFModernVerticalMenu
 {
-    /// <summary>
-    /// Lógica de interacción para MainWindow.xaml
-    /// </summary>
+
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -70,10 +68,10 @@ namespace WPFModernVerticalMenu
         {
             if (Tg_Btn.IsChecked == false)
             {
-                Popup.PlacementTarget = btnProducts;
+                Popup.PlacementTarget = btnRegister;
                 Popup.Placement = PlacementMode.Right;
                 Popup.IsOpen = true;
-                Header.PopupText.Text = "Products";
+                Header.PopupText.Text = "Register";
             }
         }
 
@@ -87,10 +85,10 @@ namespace WPFModernVerticalMenu
         {
             if (Tg_Btn.IsChecked == false)
             {
-                Popup.PlacementTarget = btnProductStock;
+                Popup.PlacementTarget = btnLogin;
                 Popup.Placement = PlacementMode.Right;
                 Popup.IsOpen = true;
-                Header.PopupText.Text = "Product Stock";
+                Header.PopupText.Text = "Login";
             }
         }
 
@@ -104,10 +102,10 @@ namespace WPFModernVerticalMenu
         {
             if (Tg_Btn.IsChecked == false)
             {
-                Popup.PlacementTarget = btnOrderList;
+                Popup.PlacementTarget = btnReportIssues;
                 Popup.Placement = PlacementMode.Right;
                 Popup.IsOpen = true;
-                Header.PopupText.Text = "Order List";
+                Header.PopupText.Text = "Report Issues";
             }
         }
 
@@ -121,10 +119,10 @@ namespace WPFModernVerticalMenu
         {
             if (Tg_Btn.IsChecked == false)
             {
-                Popup.PlacementTarget = btnBilling;
+                Popup.PlacementTarget = btnLocalEventsAnnouncements ;
                 Popup.Placement = PlacementMode.Right;
                 Popup.IsOpen = true;
-                Header.PopupText.Text = "Billing";
+                Header.PopupText.Text = "Local Events and Announcement";
             }
         }
 
@@ -138,10 +136,10 @@ namespace WPFModernVerticalMenu
         {
             if (Tg_Btn.IsChecked == false)
             {
-                Popup.PlacementTarget = btnPointOfSale;
+                Popup.PlacementTarget = btnServiceRequestStatus;
                 Popup.Placement = PlacementMode.Right;
                 Popup.IsOpen = true;
-                Header.PopupText.Text = "Poin Of Sale";
+                Header.PopupText.Text = "Service Request Status";
             }
         }
 
@@ -155,10 +153,10 @@ namespace WPFModernVerticalMenu
         {
             if (Tg_Btn.IsChecked == false)
             {
-                Popup.PlacementTarget = btnSecurity;
+                Popup.PlacementTarget = btnFeedback;
                 Popup.Placement = PlacementMode.Right;
                 Popup.IsOpen = true;
-                Header.PopupText.Text = "Security";
+                Header.PopupText.Text = "In-App Survey";
             }
         }
 
@@ -213,6 +211,44 @@ namespace WPFModernVerticalMenu
         private void btnDashboard_Click(object sender, RoutedEventArgs e)
         {
             fContainer.Navigate(new System.Uri("Pages/Dashboard.xaml", UriKind.RelativeOrAbsolute));
+        }
+
+        private void btnLogin_Click(object sender, RoutedEventArgs e)
+        {
+            fContainer.Navigate(new System.Uri("Pages/Login.xaml", UriKind.RelativeOrAbsolute));
+
+        }
+
+        private void btnRegister_Click(object sender, RoutedEventArgs e)
+        {
+            fContainer.Navigate(new System.Uri("Pages/Register.xaml", UriKind.RelativeOrAbsolute));
+
+        }
+
+        private void btnReportIssues_Click(object sender, RoutedEventArgs e)
+        {
+            fContainer.Navigate(new System.Uri("Pages/ReportIssues.xaml", UriKind.RelativeOrAbsolute));
+        }
+
+        private void btnLocalEventsAnnouncements_Click(object sender, RoutedEventArgs e)
+        {
+            fContainer.Navigate(new System.Uri("Pages/LocalEventsAnnouncements.xaml", UriKind.RelativeOrAbsolute));
+        }
+
+        private void btnServiceRequestStatus_Click(object sender, RoutedEventArgs e)
+        {
+            fContainer.Navigate(new System.Uri("Pages/ServiceRequestStatus.xaml", UriKind.RelativeOrAbsolute));
+        }
+
+        private void btnFeedback_Click(object sender, RoutedEventArgs e)
+        {
+            fContainer.Navigate(new System.Uri("Pages/Feedback.xaml", UriKind.RelativeOrAbsolute));
+        }
+
+        private void btnSetting_Click(object sender, RoutedEventArgs e)
+        {
+            fContainer.Navigate(new System.Uri("Pages/Settings.xaml", UriKind.RelativeOrAbsolute));
+
         }
     }
 }

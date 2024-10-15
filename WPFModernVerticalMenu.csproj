@@ -35,6 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -89,7 +90,35 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Pages\Feedback.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\Home.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\LocalEventsAnnouncements.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Register.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ReportIssues.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ServiceRequestStatus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Settings.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -103,11 +132,34 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\EventDataDictionary.cs" />
+    <Compile Include="Models\Issue.cs" />
     <Compile Include="Pages\Dashboard.xaml.cs">
       <DependentUpon>Dashboard.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Pages\Feedback.xaml.cs">
+      <DependentUpon>Feedback.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\Home.xaml.cs">
       <DependentUpon>Home.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LocalEventsAnnouncements.xaml.cs">
+      <DependentUpon>LocalEventsAnnouncements.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Register.xaml.cs">
+      <DependentUpon>Register.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ReportIssues.xaml.cs">
+      <DependentUpon>ReportIssues.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ServiceRequestStatus.xaml.cs">
+      <DependentUpon>ServiceRequestStatus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Settings.xaml.cs">
+      <DependentUpon>Settings.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
@@ -136,6 +188,33 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\MainPage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\LoginRegistrationPage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\—Pngtree—fluid abstract background with purple_15721566.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\—Pngtree—purple background planet smart tech_979623.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\UnderConstruction.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\AbstractFlow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\vecteezy_abstract-technology-futuristic-digital-square-pattern-with_12105210.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\LocalEventsAndAnnouncementsBackground.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
