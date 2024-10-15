@@ -23,9 +23,29 @@ namespace WPFModernVerticalMenu.Pages
             InitializeComponent();
         }
 
-        private void LoginButton_Click(object sender, RoutedEventArgs e)
+        private async void LoginButton_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Login Successfull!", "LoginPage", MessageBoxButton.OK);
+            try
+            {
+                string email = LoginEmailTextBox.Text;
+                string password = LoginPasswordBox.Password;
+
+                var response = await FirebaseAuthService.LoginUserAsync(email, password);
+                MessageBox.Show("Login successful!");
+                this.NavigationService.Navigate(new Dashboard());
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Login failed: {ex.Message}");
+            }
+
+
         }
     }
+
+
+
+
+
 }

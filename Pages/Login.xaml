@@ -34,9 +34,9 @@
                 Margin="120,5,10,10"
                 FontWeight="SemiBold"
                 Foreground="#E1BEE7"
-                Text="Username : " />
+                Text="Email : " />
             <TextBox
-                x:Name="UsernameTextBox"
+                x:Name="LoginEmailTextBox"
                 Width="360"
                 Height="35"
                 Margin="0,0,0,20"
@@ -44,7 +44,7 @@
                 BorderBrush="#673AB7"
                 FontSize="14"
                 Foreground="#999"
-                Text="Username123" />
+                Text="test123@gmail.com" />
 
             <!--  Password  -->
             <TextBlock
@@ -54,7 +54,7 @@
                 Foreground="#E1BEE7"
                 Text="Password : " />
             <PasswordBox
-                x:Name="PasswordBox"
+                x:Name="LoginPasswordBox"
                 Width="360"
                 Height="35"
                 Margin="0,0,0,10"

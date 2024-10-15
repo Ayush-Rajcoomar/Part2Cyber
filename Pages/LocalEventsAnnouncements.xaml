@@ -18,65 +18,136 @@
 
             <StackPanel>
 
-                <!-- Calendar to select a date -->
-                <Calendar
-                    Width="251"
-                    Height="182"
-                    Margin="10"
-                    HorizontalAlignment="Center"
-                    Name="calendar"
-                    SelectedDatesChanged="Calendar_SelectedDatesChanged" />
+                <!--  Grid to hold Calendar and Recommendation StackPanel side by side  -->
+                <Grid Margin="10">
+                    <!--  Define two columns: one for the calendar and the other for stackReccomend  -->
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <!--  Calendar  -->
+                        <ColumnDefinition Width="Auto" />
+                        <!--  Spacer between the two  -->
+                        <ColumnDefinition Width="*" />
+                        <!--  Recommendation panel  -->
+                    </Grid.ColumnDefinitions>
 
-                <!-- StackPanel for Buttons -->
+                    <!--  Calendar to select a date  -->
+                    <Calendar
+                        Name="calendar"
+                        Grid.Column="0"
+                        Width="251"
+                        Height="182"
+                        Margin="10"
+                        HorizontalAlignment="Center"
+                        SelectedDatesChanged="Calendar_SelectedDatesChanged" />
+
+                    <!--  StackPanel for Recommendations (stackReccomend)  -->
+                    <StackPanel
+                        Name="stackReccomend"
+                        Grid.Column="2"
+                        Width="250"
+                        Height="200"
+                        Margin="10"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Background="#4D4D4D">
+
+                        <Label
+                            Name="lblReccomend"
+                            Width="200"
+                            Height="45"
+                            Margin="10"
+                            Padding="10"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            HorizontalContentAlignment="Center"
+                            VerticalContentAlignment="Center"
+                            Background="#D3D3D3"
+                            BorderBrush="#878AB2"
+                            BorderThickness="2"
+                            Content="Recommendations"
+                            FontSize="16"
+                            FontWeight="Bold"
+                            Foreground="Black" />
+                        <!--  Content inside this stackpanel can be added here  -->
+                    </StackPanel>
+                </Grid>
+
+                <!--  StackPanel for Buttons  -->
                 <StackPanel
+                    Margin="20"
                     HorizontalAlignment="Center"
                     VerticalAlignment="Center"
                     Orientation="Horizontal">
 
-                    <!-- Add Event Button -->
+                    <!--  Add Event Button  -->
                     <Button
                         Name="btnAdd"
                         Width="150"
                         Height="50"
+                        Margin="10"
                         Background="#3C3F58"
                         BorderBrush="#878AB2"
                         BorderThickness="2"
+                        Click="btnAdd_Click"
                         Content="Add Event"
                         FontWeight="Bold"
-                        Foreground="White"
-                        Click="btnAdd_Click" />
+                        Foreground="White" />
 
-                    <!-- Delete Event Button -->
+                    <!--  Delete Event Button  -->
                     <Button
                         Name="btnDelete"
                         Width="150"
                         Height="50"
+                        Margin="10"
                         Background="#3C3F58"
                         BorderBrush="#878AB2"
                         BorderThickness="2"
+                        Click="btnDelete_Click"
                         Content="Delete Event"
                         FontWeight="Bold"
                         Foreground="White" />
 
-                    <!-- Search Event Button -->
+                    <!--  Search Event Button  -->
                     <Button
                         Name="btnSearch"
                         Width="150"
                         Height="50"
+                        Margin="10"
                         Background="#3C3F58"
                         BorderBrush="#878AB2"
                         BorderThickness="2"
+                        Click="btnSearch_Click"
                         Content="Search Event"
                         FontWeight="Bold"
-                        Foreground="White" 
-                        Click="btnSearch_Click"/>
+                        Foreground="White" />
                 </StackPanel>
 
-                <StackPanel x:Name="stackMostRecent" Margin="30"  VerticalAlignment="Bottom" Height="150" Width="500" Background="WhiteSmoke">
-                    
-                    
+                <!--  StackPanel for displaying recent events  -->
+                <StackPanel
+                    x:Name="stackMostRecent"
+                    Width="500"
+                    Height="335"
+                    Margin="30"
+                    VerticalAlignment="Bottom"
+                    Background="#4D4D4D">
+                    <Label
+                        Name="lblStack"
+                        Width="300"
+                        Height="45"
+                        Margin="10"
+                        Padding="10"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        HorizontalContentAlignment="Center"
+                        VerticalContentAlignment="Center"
+                        Background="#D3D3D3"
+                        BorderBrush="#878AB2"
+                        BorderThickness="2"
+                        Content="Latest Events :"
+                        FontSize="16"
+                        FontWeight="Bold"
+                        Foreground="Black" />
                 </StackPanel>
-                
             </StackPanel>
         </Grid>
     </Border>

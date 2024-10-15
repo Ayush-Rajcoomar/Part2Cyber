@@ -31,5 +31,11 @@ namespace WPFModernVerticalMenu.Pages
 
            
         }
+
+        private void btnLocalAnnouncementsEvents_Click(object sender, RoutedEventArgs e)
+        {
+            this.NavigationService.Navigate(new LocalEventsAnnouncements());
+
+        }
     }
 }

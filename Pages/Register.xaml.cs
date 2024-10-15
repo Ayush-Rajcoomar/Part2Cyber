@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 
 namespace WPFModernVerticalMenu.Pages
 {
- 
+
     public partial class Register : Page
     {
         public Register()
@@ -23,9 +23,21 @@ namespace WPFModernVerticalMenu.Pages
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private async void Register_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Register Successfull!", "RegisterPage", MessageBoxButton.OK);
+            try
+            {
+                string email = EmailTextBox.Text;
+                string password = PasswordBox.Password;
+
+                var response = await FirebaseAuthService.RegisterUserAsync(email, password);
+                MessageBox.Show("User registered successfully!");
+                this.NavigationService.Navigate(new Login());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Registration failed: {ex.Message}");
+            }
         }
     }
 }

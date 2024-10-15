@@ -159,7 +159,7 @@
                     Background="#6A1B9A"
                     BorderBrush="#AB47BC"
                     BorderThickness="1"
-                    Click="Button_Click"
+                    Click="Register_Click"
                     Content="Register"
                     FontWeight="Bold"
                     Foreground="White" />

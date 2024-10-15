@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312_part2_s2_y3\\programmingpoep1\\programmingpoep1\\models\\eventdatadictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\models\\eventdatadictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:models\\eventdatadictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\pages\\localeventsannouncements.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312_part2_s2_y3\\programmingpoep1\\programmingpoep1\\pages\\localeventsannouncements.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\localeventsannouncements.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\pages\\localeventsannouncements.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312_part2_s2_y3\\programmingpoep1\\programmingpoep1\\pages\\localeventsannouncements.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\localeventsannouncements.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\pages\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,18 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LocalEventsAnnouncements.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml",
-              "RelativeDocumentMoniker": "Pages\\LocalEventsAnnouncements.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml",
-              "RelativeToolTip": "Pages\\LocalEventsAnnouncements.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-14T20:11:17.396Z",
+              "DocumentIndex": 0,
+              "Title": "EventDataDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Models\\EventDataDictionary.cs",
+              "RelativeDocumentMoniker": "Models\\EventDataDictionary.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Models\\EventDataDictionary.cs*",
+              "RelativeToolTip": "Models\\EventDataDictionary.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:48:49.051Z",
               "EditorCaption": ""
             },
             {
@@ -48,34 +45,22 @@
               "RelativeDocumentMoniker": "Pages\\LocalEventsAnnouncements.xaml.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml.cs",
               "RelativeToolTip": "Pages\\LocalEventsAnnouncements.xaml.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAADwv34AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAYwBkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T20:11:18.89Z",
+              "WhenOpened": "2024-10-15T18:49:19.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EventDataDictionary.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Models\\EventDataDictionary.cs",
-              "RelativeDocumentMoniker": "Models\\EventDataDictionary.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Models\\EventDataDictionary.cs",
-              "RelativeToolTip": "Models\\EventDataDictionary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T20:48:49.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dashboard.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Dashboard.xaml",
-              "RelativeDocumentMoniker": "Pages\\Dashboard.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Dashboard.xaml",
-              "RelativeToolTip": "Pages\\Dashboard.xaml",
+              "DocumentIndex": 2,
+              "Title": "LocalEventsAnnouncements.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml",
+              "RelativeDocumentMoniker": "Pages\\LocalEventsAnnouncements.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml",
+              "RelativeToolTip": "Pages\\LocalEventsAnnouncements.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-14T20:25:51.886Z"
+              "WhenOpened": "2024-10-15T18:49:16.619Z",
+              "EditorCaption": ""
             }
           ]
         }

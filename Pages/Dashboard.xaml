@@ -48,11 +48,13 @@
 
 
                 <Button
+                    Name="btnLocalAnnouncementsEvents"
                     Width="250"
                     Height="100"
                     Background="#3C3F58"
                     BorderBrush="#878AB2"
                     BorderThickness="2"
+                    Click="btnLocalAnnouncementsEvents_Click"
                     Content="Local Events and Announcements "
                     FontWeight="Bold"
                     Foreground="White" />
