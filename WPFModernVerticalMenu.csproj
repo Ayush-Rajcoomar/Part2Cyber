@@ -59,6 +59,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Pages\MaxHeap.cs" />
+    <Compile Include="Services\TreeManager.cs" />
     <Page Include="Assets\Icons.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -138,6 +140,7 @@
   <ItemGroup>
     <Compile Include="Models\EventDataDictionary.cs" />
     <Compile Include="Models\Issue.cs" />
+    <Compile Include="Models\TreeModels.cs" />
     <Compile Include="Pages\Dashboard.xaml.cs">
       <DependentUpon>Dashboard.xaml</DependentUpon>
     </Compile>
@@ -220,6 +223,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Pages\LocalEventsAndAnnouncementsBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\TreeBackgrund.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\HeapBackground.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

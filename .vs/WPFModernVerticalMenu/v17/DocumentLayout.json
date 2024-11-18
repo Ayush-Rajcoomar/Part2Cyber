@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312_part2_s2_y3\\programmingpoep1\\programmingpoep1\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\pages\\maxheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\maxheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312_part2_s2_y3\\programmingpoep1\\programmingpoep1\\pages\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\services\\treemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:services\\treemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312_part2_s2_y3\\programmingpoep1\\programmingpoep1\\firebaseauthentication\\firebaseauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:firebaseauthentication\\firebaseauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\models\\treemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:models\\treemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312_part2_s2_y3\\programmingpoep1\\programmingpoep1\\pages\\localeventsannouncements.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\localeventsannouncements.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\pages\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312_part2_s2_y3\\programmingpoep1\\programmingpoep1\\pages\\localeventsannouncements.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\localeventsannouncements.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\pages\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\models\\eventdatadictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:models\\eventdatadictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\pages\\servicerequeststatus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\servicerequeststatus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\pages\\servicerequeststatus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\servicerequeststatus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Register.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\Register.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Register.xaml.cs",
-              "RelativeToolTip": "Pages\\Register.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA8wCsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Settings.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Settings.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Settings.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Settings.xaml.cs",
+              "RelativeToolTip": "Pages\\Settings.xaml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAqwJAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:03:49.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\Login.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Login.xaml.cs",
-              "RelativeToolTip": "Pages\\Login.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAuwCUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:03:28.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FirebaseAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\FireBaseAuthentication\\FirebaseAuthService.cs",
-              "RelativeDocumentMoniker": "FireBaseAuthentication\\FirebaseAuthService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\FireBaseAuthentication\\FirebaseAuthService.cs",
-              "RelativeToolTip": "FireBaseAuthentication\\FirebaseAuthService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwDMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:01:37.116Z",
+              "WhenOpened": "2024-11-18T19:55:31.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EventDataDictionary.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Models\\EventDataDictionary.cs",
-              "RelativeDocumentMoniker": "Models\\EventDataDictionary.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Models\\EventDataDictionary.cs",
-              "RelativeToolTip": "Models\\EventDataDictionary.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA8wBkAAAAAAAAAAAAAAA==",
+              "Title": "ServiceRequestStatus.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\ServiceRequestStatus.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ServiceRequestStatus.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\ServiceRequestStatus.xaml.cs",
+              "RelativeToolTip": "Pages\\ServiceRequestStatus.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwG8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T20:48:49.051Z",
+              "WhenOpened": "2024-11-18T19:53:58.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LocalEventsAnnouncements.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\LocalEventsAnnouncements.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml.cs",
-              "RelativeToolTip": "Pages\\LocalEventsAnnouncements.xaml.cs",
-              "ViewState": "AgIAADEBAAAAAAAAAAA+wEEBAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TreeModels.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Models\\TreeModels.cs",
+              "RelativeDocumentMoniker": "Models\\TreeModels.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Models\\TreeModels.cs",
+              "RelativeToolTip": "Models\\TreeModels.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T18:49:19.015Z",
+              "WhenOpened": "2024-11-18T19:51:15.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LocalEventsAnnouncements.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml",
-              "RelativeDocumentMoniker": "Pages\\LocalEventsAnnouncements.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml",
-              "RelativeToolTip": "Pages\\LocalEventsAnnouncements.xaml",
+              "Title": "Settings.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Settings.xaml",
+              "RelativeDocumentMoniker": "Pages\\Settings.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Settings.xaml",
+              "RelativeToolTip": "Pages\\Settings.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-15T18:49:16.619Z",
+              "WhenOpened": "2024-11-18T19:49:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Services\\TreeManager.cs",
+              "RelativeDocumentMoniker": "Services\\TreeManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Services\\TreeManager.cs",
+              "RelativeToolTip": "Services\\TreeManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:50:13.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaxHeap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\MaxHeap.cs",
+              "RelativeDocumentMoniker": "Pages\\MaxHeap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\MaxHeap.cs",
+              "RelativeToolTip": "Pages\\MaxHeap.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswGUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:51:58.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRequestStatus.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\ServiceRequestStatus.xaml",
+              "RelativeDocumentMoniker": "Pages\\ServiceRequestStatus.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\ServiceRequestStatus.xaml",
+              "RelativeToolTip": "Pages\\ServiceRequestStatus.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T19:48:21.782Z",
               "EditorCaption": ""
             }
           ]

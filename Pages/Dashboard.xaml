@@ -61,6 +61,7 @@
 
 
                 <Button
+                    Name="btnServiceRequest"
                     Width="250"
                     Height="100"
                     Background="#3C3F58"
@@ -68,7 +69,7 @@
                     BorderThickness="2"
                     Content="Service Request Status"
                     FontWeight="Bold"
-                    Foreground="White" />
+                    Foreground="White" Click="btnServiceRequest_Click" />
             </StackPanel>
         </Grid>
 

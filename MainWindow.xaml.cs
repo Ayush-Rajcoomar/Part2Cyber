@@ -169,10 +169,10 @@ namespace WPFModernVerticalMenu
         {
             if (Tg_Btn.IsChecked == false)
             {
-                Popup.PlacementTarget = btnSetting;
+                Popup.PlacementTarget = btnHeap;
                 Popup.Placement = PlacementMode.Right;
                 Popup.IsOpen = true;
-                Header.PopupText.Text = "Setting";
+                Header.PopupText.Text = "Heap";
             }
         }
 

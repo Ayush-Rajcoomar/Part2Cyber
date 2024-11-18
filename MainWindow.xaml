@@ -172,7 +172,7 @@
                                 Text="In-App Survey" />
                         </Button>
                         <Button
-                            x:Name="btnSetting"
+                            x:Name="btnHeap"
                             Click="btnSetting_Click"
                             MouseEnter="btnSetting_MouseEnter"
                             MouseLeave="btnSetting_MouseLeave"
@@ -183,7 +183,7 @@
                                 Icon="{DynamicResource settings}"
                                 IconWidth="16"
                                 IndicatorBrush="{DynamicResource PrimaryBlueColor}"
-                                Text="Setting" />
+                                Text="Heap" />
                         </Button>
                     </StackPanel>
                     <!--  End: MenuItem  -->

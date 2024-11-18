@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\models\\eventdatadictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:models\\eventdatadictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312_part2_s2_y3\\programmingpoep1\\programmingpoep1\\pages\\localeventsannouncements.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\localeventsannouncements.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312_part2_s2_y3\\programmingpoep1\\programmingpoep1\\pages\\localeventsannouncements.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\localeventsannouncements.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\pages\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\pages\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\pages\\servicerequeststatus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\servicerequeststatus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\pages\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\desktop\\prog7312-poe\\programmingpoe_final\\programmingpoep1\\programmingpoep1\\pages\\servicerequeststatus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\servicerequeststatus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +43,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EventDataDictionary.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Models\\EventDataDictionary.cs",
-              "RelativeDocumentMoniker": "Models\\EventDataDictionary.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Models\\EventDataDictionary.cs*",
-              "RelativeToolTip": "Models\\EventDataDictionary.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T20:48:49.051Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T19:35:25.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LocalEventsAnnouncements.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\LocalEventsAnnouncements.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml.cs",
-              "RelativeToolTip": "Pages\\LocalEventsAnnouncements.xaml.cs",
-              "ViewState": "AgIAAAoBAAAAAAAAAAAYwBkBAAAAAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAcwK0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T18:49:19.015Z",
+              "WhenOpened": "2024-11-18T19:35:46.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LocalEventsAnnouncements.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml",
-              "RelativeDocumentMoniker": "Pages\\LocalEventsAnnouncements.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Prog7312_Part2_S2_Y3\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml",
-              "RelativeToolTip": "Pages\\LocalEventsAnnouncements.xaml",
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Home.xaml.cs",
+              "RelativeToolTip": "Pages\\Home.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:35:19.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Home.xaml",
+              "RelativeDocumentMoniker": "Pages\\Home.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Home.xaml",
+              "RelativeToolTip": "Pages\\Home.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-15T18:49:16.619Z",
+              "WhenOpened": "2024-11-18T19:34:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRequestStatus.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\ServiceRequestStatus.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ServiceRequestStatus.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\ServiceRequestStatus.xaml.cs",
+              "RelativeToolTip": "Pages\\ServiceRequestStatus.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:59:07.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Settings.xaml",
+              "RelativeDocumentMoniker": "Pages\\Settings.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\Settings.xaml",
+              "RelativeToolTip": "Pages\\Settings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T18:16:59.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRequestStatus.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\ServiceRequestStatus.xaml",
+              "RelativeDocumentMoniker": "Pages\\ServiceRequestStatus.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PROG7312-POE\\ProgrammingPOE_Final\\ProgrammingPOEp1\\ProgrammingPOEp1\\Pages\\ServiceRequestStatus.xaml",
+              "RelativeToolTip": "Pages\\ServiceRequestStatus.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T21:59:04.263Z",
               "EditorCaption": ""
             }
           ]
